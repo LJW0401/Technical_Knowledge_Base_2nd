@@ -27,7 +27,7 @@
     git config --global https.proxy socks5://127.0.0.1:7890
     ```
 
-    其中`7890`为`Clash for Windows`代理服务器在本机上的端口，具体端口号请查看自己代理的设置
+    其中`7890`为[Clash for Windows](https://okss.us/index.php#/dashboard)代理服务器在本机上的端口，具体端口号请查看自己代理的设置
 
     为了防止对gitee速度的影响，建议只对GitHub采用该规则：
     ```
